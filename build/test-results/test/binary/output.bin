@@ -1,0 +1,12 @@
+:Request URI:	https://demoqa.com/Account/v1/GenerateToken
+Body:
+{
+    "userName": "alex",
+#    "password": "asdsad#frew_DFS2"
+}
+{
+º    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6ImFsZXgiLCJwYXNzd29yZCI6ImFzZHNhZCNmcmV3X0RGUzIiLCJpYXQiOjE2MjI0MzY5NDZ9.Yf4gJeX2lIGFi4KxWEgbq4LgiarS7N8euYVnMQHEAFY",
++    "expires": "2021-06-07T04:55:46.192Z",
+    "status": "Success",
+.    "result": "User authorized successfully."
+}
